@@ -51,7 +51,7 @@ In the process of obtaining Security+ certification
 
 #### Application
 Microsoft Office/Project/Visio, MySQL, eTerms, Oracle VM VirtualBox, Cisco Packet     
- Tracer, NMap, Wireshark, Sparta/Legion, Nikto, Gitlab
+ Tracer, NMap, Wireshark, Sparta/Legion, Nikto, Github
 
 
 #### Programming
