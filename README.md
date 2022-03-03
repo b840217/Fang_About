@@ -4,7 +4,7 @@ bryanfang1995@gmail.com/(703)-479-8559/[LinkedIn](https://www.linkedin.com/in/br
 ## Education
 #### [George Mason University](https://www.gmu.edu/)---------------------------------December 2021
 ###### Bachelor of Science in Information Technology with a Concentration in Cyber Security
-#### [Northern Virginia Community College](https://www.nvcc.edu/)-------------------May 2016
+#### [Northern Virginia Community College](https://www.nvcc.edu/)------------------May 2016
 ###### Information Technology
 
 ## Professional Experience
