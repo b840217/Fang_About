@@ -51,19 +51,14 @@ In the process of obtaining Security+ certification
 
 #### Application
 Microsoft Office/Project/Visio, MySQL, eTerms, Oracle VM VirtualBox, Cisco Packet     
- Tracer, NMap, Wireshark, Sparta/Legion, Nikto, Github
+ Tracer, NMap, Wireshark, Sparta/Legion, Nikto, Git/Github
 
 
 #### Programming
 HTML5, CSS, Java, Python, PHP, SQL basics
 
-#### Other Related Skills
-Windows Operating System, Linux, Ubuntu, Kali, simple LAMP stack, Firewall    
- configuration, OSI Model, VPN, ERD, DML, Cisco Routers and Switches Configuration basics, Computer  
- Hardware Assembly/Installation/Troubleshooting, Web Design, Gantt chart, NIST, STIG, OWASP, CIS20, 
- IoTSF Framework, Agile, DevOps
-
-
+#### Other Related Skills/Knowledges
+Windows Operating System, Linux, Ubuntu, Kali, simple LAMP stack, Firewall configuration, OSI Model, VPN, Cisco Routers and Switches Configuration basics, Computer Hardware Assembly/Installation/Troubleshooting, Web Design, Agile, DevOps, CI/CD, Test Environment, Networking.
 
 ## Languages
 English – Fluent | Mandarin Chinese – Native | Taiwanese - Native
